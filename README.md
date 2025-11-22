@@ -31,7 +31,7 @@ Turning webcam into an **AI gesture controlled draawing tool**
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone 
+git clone https://github.com/Siri240807/AirCanvas.git
 ```
 
 ### 2️⃣ Install Dependencies
@@ -45,7 +45,7 @@ pip install opencv-python mediapipe
 ## ▶️ How to Run
 
 ```bash
-python main2.py
+python main.py
 ```
 
 Make sure your **webcam is connected**.
